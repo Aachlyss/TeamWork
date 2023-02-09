@@ -2,3 +2,4 @@ Team Members:
 -Ivan Angelov
 -Andrea Todorowa
 -Viktoria Bozhidarova
+-Veselin Todorov
